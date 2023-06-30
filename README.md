@@ -14,7 +14,7 @@
 
 ---
 <div>
-    <img align="right" src="[https://giphy.com/embed/xTcnSWYZvafyhEACBO](https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif)" width="200" height="200" frameBorder="0" class="giphy-embed" ></img>
+    <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif" width="300" height="300" frameBorder="0" class="giphy-embed" ></img>
 </div>
 ### 👨‍💻 About Me :
 
