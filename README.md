@@ -14,7 +14,7 @@
 
 ---
 <div>
-    <iframe align="right" src="https://giphy.com/embed/xTcnSWYZvafyhEACBO" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <img align="right" src="https://giphy.com/embed/xTcnSWYZvafyhEACBO" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>
 ### 👨‍💻 About Me :
 
