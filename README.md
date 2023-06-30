@@ -2,8 +2,8 @@
 
 <div id="header" align="center">
     <img src="https://lh3.googleusercontent.com/IKACYcRzfRafyywq-i3QKWM3CALwdOTVC3q5Ka8WrrOgDp0Oq2OIhz2OwNMTZGkQWihNNjImu0r9KraSaWpVlhqGJ-l4NtTReol-Zg" width="200">
-    <h1 align="center">Hi 👋 I am Brayan, I am developer</h1>
-    <h3>I am a frontend developer from Mexico who is passionate about technology</h3>
+    <h1 color="white"align="center">Hi 👋 I am Brayan, I am developer</h1>
+    <h3 color="white">I am a frontend developer from Mexico who is passionate about technology</h3>
 </div>
 <div id="badgets" align="center">
     <a href="https://twitter.com/CryptoChaaos" >
